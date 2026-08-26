@@ -1,6 +1,9 @@
 # Jyotish Risk Intelligence Framework (JRIF™)
 ### A Computational Astrometeorological Risk Model and Forward Hazard Index (2026–2028)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22119016.svg)](https://doi.org/10.5281/zenodo.22119016)
+
+
 **Author:** Prasad Vijay Chittal (PRAVICHIT)  
 **Affiliation:** Independent Research Initiative  
 **ORCID:** [0009-0007-3554-6942](https://orcid.org/0009-0007-3554-6942)  
