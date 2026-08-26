@@ -141,5 +141,5 @@ This preprint is permanently indexed and citable via its Zenodo Digital Object I
   year={2026},
   note={ORCID: 0009-0007-3554-6942}
 }
-
-For scientific inquiries, collaborative evaluation, and dataset verification, contact the author via ORCID profile.
+```
+*For scientific inquiries, collaborative evaluation, and dataset verification, contact the author via ORCID profile.*
