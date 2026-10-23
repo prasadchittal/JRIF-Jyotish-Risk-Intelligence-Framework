@@ -1,0 +1,11 @@
+
+# Runtime dependencies for jrif_engine.py
+# Install with: python -m pip install -r requirements.txt
+#
+# These are compatible-version ranges, not a claim that every combination
+# has been tested. Record the Python version and resolved package versions
+# when reproducing a run.
+
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+pyswisseph>=2.10.3.2,<3.0
