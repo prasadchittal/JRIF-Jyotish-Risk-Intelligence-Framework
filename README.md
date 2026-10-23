@@ -2,7 +2,11 @@ Jyotish Risk Intelligence Framework (JRIF)
 
 An Exploratory Computational Framework for Astrometeorological Risk Research (2026–2028)
 
-""DOI" (https://zenodo.org/badge/DOI/10.5281/zenodo.22119016.svg)" (https://doi.org/10.5281/zenodo.22119016)
+
+**Latest release:** [JRIF v1.1 — DOI: 10.5281/zenodo.23451691](https://doi.org/10.5281/zenodo.23451691)
+
+**All versions:** [10.5281/zenodo.22119016](https://doi.org/10.5281/zenodo.22119016)
+
 
 Author: Prasad Vijay Chittal (PRAVICHIT)
 Affiliation: Independent Research Initiative
